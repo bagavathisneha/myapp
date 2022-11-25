@@ -1,0 +1,178 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+    background-position: center;
+}
+.l1{
+font-size:xx-large;
+    font-weight: bolder;
+    margin-left: 33px;
+}
+#p1{
+color: blue;
+position: absolute;
+bottom: 576px;
+left: 113px;
+}
+.t{
+    font-size: 15px;
+    font-weight: bolder;
+}
+.l2{
+    position: absolute;
+    left: 400px;
+    top: 15px;
+}
+.l3{
+    position: absolute;
+    left: 500px;
+    top: 15px;
+}
+.l4{
+    position: absolute;
+    left: 600px;
+    top: 15px;
+}
+.l5{
+    position: absolute;
+    left: 720px;
+    top: 15px;
+}
+.l6{
+    position: absolute;
+    left: 800px;
+    top: 15px;
+}
+#c1{
+    height: 30px;
+    width: 150px;
+    background-color: blue;
+    border-radius: 5px;
+    border-top: none;
+    border-bottom: none;
+    border-left:none ;
+    border-right: none;
+    position: absolute;
+    right: 320px;
+    top: 25px;
+}
+.a{
+    color: blue;
+    font-size: 15px;
+    position: absolute;
+    left: 50px;
+    top: 80px;
+}
+.co{
+    font-size: 80px;
+    position: absolute;
+    left: 50px;
+    top: 40px;
+}
+#I{
+    height:350px ;
+    width: 500px;
+    position: absolute;
+    right: 200px;
+    top: 90px;
+    background-image: url('men.jpg');
+background-repeat: no-repeat;
+background-position: center;
+}
+#N{
+    height: 200px;
+    width: 250px;
+    position: absolute;
+    bottom: 10px;
+    left: 70px;
+    background-image: url('mg1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#T{
+width: 1045px;
+height: 165px;
+background-color:rgba(0, 0, 255, 0.712);
+position: absolute;
+bottom: 28px;
+left:321px
+}
+#d1{
+    font-size: x-large;
+    position: absolute;
+    bottom: 50px;
+    left: 100px;
+    color: white;
+}
+#y1{
+    font-size: 50px;
+    position: absolute;
+bottom:2px ;
+    right: 260px;
+    color: white;
+}
+#d2{
+    font-size: x-large;
+    position: absolute;
+    bottom: 50px;
+    left: 450px;
+    font-weight: bolder;
+    color: white;
+}
+#y2{
+    font-size: 50px;
+    position: absolute;
+    bottom: 2px;
+    right: 270px;
+    color: white;
+}
+#d3{
+    font-size: x-large;
+    position: absolute;
+    bottom: 50px;
+    right: 10px;
+    font-weight: bolder;
+    color: white;
+}
+#y3{
+    font-size: 50px;
+    position: absolute;
+    bottom: 2px;
+    right: 260px;
+    color: white;
+}
+#z{
+    background-color: black;
+    color: white;
+    width: 150px;
+     height: 40px;
+position: absolute;
+left: 50px;
+top: 404px;
+font-size: x-small;
+    }
+#a1{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    bottom: 20px;
+    right: 40px;
+}
+#a2{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    bottom: 20px;
+    right: 5px;
+}
+
+#baga{
+    width: 100%;
+    height: 50px;;
+color:blue;
+text-align: center;
+position: absolute;
+bottom: 0px;
+}
